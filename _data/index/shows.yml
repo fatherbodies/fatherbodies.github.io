@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Venue Name
+    i18n: company_a
+  desc:
+    detail: Peterborough, Ontario
+    i18n: company_a_desc
+  date:
+    detail: Thursday, Nov. 1, 2018
+    i18n: company_a_date
+  job:
+    detail: with Isölation Party
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Venue Name
+    i18n: company_b
+  desc:
+    detail: Montreal, Québec
+    i18n: company_b_desc
+  date:
+    detail: Friday, Nov. 2, 2018
+    i18n: company_b_date
+  job:
+    detail: with Isölation Party
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Venue Name
+    i18n: company_b
+  desc:
+    detail: Ottawa, Ontario
+    i18n: company_b_desc
+  date:
+    detail: Saturday, Nov. 3, 2018
+    i18n: company_b_date
+  job:
+    detail: with Isölation Party
+    i18n: company_b_job
+  icon: fa-plus-square

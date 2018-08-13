@@ -1,0 +1,38 @@
+# index page sections
+# custom following lines to edit your index page
+- id: about-me
+  i18n: nav.about_me
+  name: About
+  tpl: about.html
+  css:
+
+- id: shows
+  i18n: nav.shows
+  name: Shows
+  tpl: shows.html
+  css: timeline
+
+- id: merch
+  i18n: nav.merch
+  name: Merch
+  tpl: merch.html
+  css: team
+
+- id: discography
+  i18n: nav.discography
+  name: Discography
+  tpl: discography.html
+  css: project
+
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  page: blog/
+  css: testimonials navy-section
+
+- id: contact
+  i18n: nav.contact
+  name: Contact
+  tpl: contact.html
+  css: contact
